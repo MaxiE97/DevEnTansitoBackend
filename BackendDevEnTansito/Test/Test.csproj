@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BackendDevEnTansito\BackendDevEnTansito.csproj" />
+    <ProjectReference Include="..\BackendDevEnTansito\BackendDevEnTransito.csproj" />
   </ItemGroup>
 
   <ItemGroup>

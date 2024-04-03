@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendDevEnTansito", "BackendDevEnTansito\BackendDevEnTansito.csproj", "{2B13DCDE-EBA4-4E4E-B4AA-DB83C10EA384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendDevEnTransito", "BackendDevEnTansito\BackendDevEnTransito.csproj", "{2B13DCDE-EBA4-4E4E-B4AA-DB83C10EA384}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F7320E10-4C85-4608-BEBD-3F3598449FBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{F7320E10-4C85-4608-BEBD-3F3598449FBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
